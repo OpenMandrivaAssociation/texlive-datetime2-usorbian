@@ -3,7 +3,7 @@ Version:	52375
 Release:	2
 Summary:	Upper Sorbian language module for the datetime2 package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-usorbian
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-usorbian
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-usorbian.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-usorbian.doc.r%{version}.tar.xz
